@@ -4,3 +4,4 @@
 <p><B>second commit on Feature</B></p>
 <p><B>Forth commit on Feature</B></p>
 <p><B>Fifth commit on Feature</B></p>
+<p><B>Sixth commit on Feature</B></p>
